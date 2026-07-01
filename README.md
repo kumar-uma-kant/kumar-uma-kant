@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Umakant Kumar</h1>
 
-<!-- 
-FUTURISTIC AI/ML HEADER BANNER 
-Custom text over a dark, high-tech abstract visualization.
--->
+<!-- PREMIUM AI/ML CUSTOM HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=UMAKANT%20KUMAR&fontSize=50&fontColor=fff&animation=fadeIn&theme=tokyonight" width="100%" />
 </p>
 
 <h3 align="center">
-  <strong>Generative AI • Computer Vision • Agentic AI • Data Science</strong>
+  <strong>AI/ML Engineer • Generative AI • Computer Vision • Agentic AI • Data Science</strong>
 </h3>
 
 <p align="center">
   <i>Building intelligent AI-powered solutions for real-world problems.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-3ECF8E?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
@@ -22,70 +27,52 @@ Custom text over a dark, high-tech abstract visualization.
 
 ---
 
-<!-- 
-AI-THEMED PROFILE IMAGE 
-Replaces the static photo with a dynamic, stylized visual representing AI/ML engineering.
--->
-<p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80"
-    alt="Artificial Intelligence and Machine Learning"
-    width="420"
-    style="border-radius: 15px; border: 2px solid #3ECF8E; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-  />
-</p>
+## 📌 Core Overview
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Highlights</h3>
+      <ul>
+        <li>🥉 Secured <b>3rd Rank</b> in Electronics & Communication Engineering branch at university level</li>
+        <li>🤖 AI/ML enthusiast passionate about solving real-world problems</li>
+        <li>💻 Building AI applications with <b>Computer Vision, LLMs, Streamlit and Agentic AI</b></li>
+        <li>🚀 Always learning, building, and improving</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 B.Tech in Electronics & Communication Engineering</li>
+        <li>🔭 Working on <b>AI Attendance System using Face + Voice Recognition</b></li>
+        <li>🌱 Learning LangGraph, Advanced RAG, MCP, AI Agents and MLOps</li>
+        <li>💼 Open to AI/ML, Data Science and Software Engineering opportunities</li>
+        <li>📧 Email: <a href="mailto:kumarumakant21452@gmail.com">kumarumakant21452@gmail.com</a></li>
+        <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">linkedin.com/in/kumar-uma-kant/</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Highlights
-
-- 🥉 Secured **3rd Rank** in Electronics & Communication Engineering at university level
-- 🤖 AI/ML enthusiast passionate about solving real-world problems
-- 💻 Building AI applications with **Computer Vision, LLMs, Streamlit and Agentic AI**
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.Tech** in Electronics & Communication Engineering
-- 🔭 **Working on:** AI Attendance System using Face + Voice Recognition
-- 🌱 **Deep Diving:** LangGraph, Advanced RAG, MCP, AI Agents and MLOps
-- 🤝 **Open to:** AI/ML, Data Science and Software Engineering opportunities
-- 📧 **Email:** <a href="mailto:kumarumakant21452@gmail.com">kumarumakant21452@gmail.com</a>
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">Connect with me</a>
-
----
-
-## 🧠 Core Interests
-
-- Machine Learning / Deep Learning
-- Computer Vision (CV)
-- Generative AI & Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI / AI Agents
-- Data Science
-- MLOps
-
----
-
-## 💻 Tech Stack & Tools
-
-### Languages & Frameworks
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,html,css,js,react" />
 </p>
 
-### AI/ML Specializations
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
@@ -93,59 +80,79 @@ Replaces the static photo with a dynamic, stylized visual representing AI/ML eng
 
 ## 🚀 Featured Projects
 
-> **🦾 Multi-Modal AI Attendance System**  
-> AI-powered attendance using **Face Recognition, Voice Verification, and QR Codes**. Built with **Streamlit** and **Supabase**.
+> ### 🤖 AI Attendance System
+> AI-powered attendance system using **Face Recognition, Voice Recognition, QR Attendance, Streamlit and Supabase**.  
+> `Python` • `OpenCV` • `Streamlit` • `Supabase`
 
-> **👁️ Computer Vision Attendance**  
-> Legacy attendance system optimized using **Dlib, Face Embeddings,** and pure ML.
+> ### 👁️ Face Recognition Attendance
+> Computer vision-based attendance system using **Dlib, Face Embeddings, and Machine Learning**.  
+> `Python` • `Dlib` • `OpenCV` • `ML`
 
-> **🎙️ Voice Identification System**  
-> Speaker recognition application for identifying students using **advanced audio processing**.
+> ### 🎙️ Voice Attendance System
+> Voice-based student identification system using **audio processing and speaker recognition**.  
+> `Python` • `Librosa` • `MFCC` • `ML`
 
-> **💳 CreditWise Loan Approval**  
-> Machine learning predictive pipeline for loan approval, featuring full **EDA, preprocessing, and classification models**.
+> ### 💳 CreditWise Loan Approval System
+> ML model to predict loan approval using **EDA, preprocessing, and classification algorithms**.  
+> `Python` • `Pandas` • `Scikit-learn` • `Seaborn`
 
-> **🛒 SmartCart Customer Segmentation**  
-> Data visualization and segmentation project using **K-Means Clustering** and **PCA**.
+> ### 🛒 SmartCart Customer Segmentation
+> Customer segmentation using **K-Means Clustering, PCA, and data visualization**.  
+> `Python` • `Scikit-learn` • `PCA` • `Matplotlib`
 
----
+> ### 🌱 Smart Irrigation System
+> IoT-based smart irrigation system using **Arduino and soil moisture sensors**.  
+> `Arduino` • `IoT` • `Sensors` • `Embedded C`
 
-## 📚 Currently Learning
-
-- LangChain / LangGraph (Advanced Workflows)
-- Agentic AI & RAG Systems
-- Hugging Face Transformers & LLM Applications
-- Computer Vision Models (Detection/Segmentation)
-- MLOps (Deployment & Monitoring)
-
----
-
-## 🏆 Achievements
-
-- 🥉 Secured **3rd Rank** in Electronics & Communication Engineering at university level
-- 🎓 **B.Tech** in Electronics & Communication Engineering
-- 🤖 Developed multiple high-impact **AI/ML, Computer Vision, and Generative AI projects**
-- 💻 Hands-on experience with **Machine Learning, Deep Learning, LLMs, LangChain, and Streamlit**
+> ### 💡 Automated Street Light Fault Detection
+> Smart India Hackathon project for detecting and reporting faulty street lights using **IoT and ML** for energy conservation.  
+> `Python` • `IoT` • `ML` • `Cloud`
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Continuous Growth
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <ul>
+        <li>✅ LangChain & LangGraph</li>
+        <li>✅ Advanced RAG & MCP</li>
+        <li>✅ AI Agents & Agentic Workflows</li>
+        <li>✅ LLM Applications & Fine-tuning</li>
+        <li>✅ Computer Vision Advanced Topics</li>
+        <li>✅ MLOps & Model Deployment</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏅 Achievements</h3>
+      <ul>
+        <li>🥉 <b>3rd Rank</b> in Electronics & Communication Engineering at university level</li>
+        <li>🎓 B.Tech in Electronics & Communication Engineering</li>
+        <li>🤖 Built multiple AI/ML, CV and Generative AI projects</li>
+        <li>💻 Hands-on with ML, DL, LLMs, LangChain, Streamlit and more</li>
+        <li>🚀 Passionate about solving real-world problems using AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight" height="175" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-uma-kant&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -156,20 +163,14 @@ Replaces the static photo with a dynamic, stylized visual representing AI/ML eng
   <a href="mailto:kumarumakant21452@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kumar-uma-kant">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub><b>“Transforming ideas into intelligent AI-powered solutions.”</b></sub>
+  <a href="https://github.com/kumar-uma-kant">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>⭐ From <b>Umakant Kumar</b></sub>
+  <i>“The best way to predict the future is to invent it.” – Alan Kay</i>
 </p>
