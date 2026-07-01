@@ -13,7 +13,7 @@ Building intelligent AI-powered solutions for real-world problems.
 </p>
 
 <p align="center">
-  <img width="560" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="AI Animation" />
+  <img width="420" alt="Real World Artificial Intelligence" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80" />
 </p>
 
 ---
@@ -87,7 +87,6 @@ Machine learning project for predicting loan approval using **EDA, preprocessing
 ### 🛒 SmartCart Customer Segmentation
 Customer segmentation project using **K-Means Clustering, PCA and Data Visualization**.
 
-
 ---
 
 ## 📚 Currently Learning
@@ -106,7 +105,7 @@ Customer segmentation project using **K-Means Clustering, PCA and Data Visualiza
 
 ## 🏆 Achievements
 
-- 🥉 Secured **3rd Rank in Electronics & Communication Engineering at university level**
+- 🥉 Secured **3rd Rank in Electronics & Communication Engineering  at university level**
 - 🎓 B.Tech in **Electronics & Communication Engineering**
 - 🤖 Developed multiple **AI/ML, Computer Vision and Generative AI projects**
 - 💻 Hands-on experience with **Machine Learning, Deep Learning, LLMs, LangChain and Streamlit**
