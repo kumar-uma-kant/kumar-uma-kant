@@ -1,174 +1,162 @@
-# Hi 👋, I'm Umakant Kumar
+<h1 align="center">Hi 👋, I'm Umakant Kumar</h1>
 
-```{=html}
 <h3 align="center">
-```
-AI/ML Engineer • Generative AI • Computer Vision • Agentic AI • Data
-Science
-```{=html}
+AI/ML Engineer • Generative AI • Computer Vision • Agentic AI • Data Science
 </h3>
-```
-```{=html}
-<p align="center">
-```
-Building intelligent AI-powered solutions for real-world problems.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img width="560" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="AI"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+Building intelligent AI-powered solutions for real-world problems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img width="560" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="AI Animation" />
+</p>
+
+---
 
 ## 🏆 Highlights
 
--   🥉 Secured **3rd Rank in Electronics & Communication Engineering
-    (ECE) branch** at the university level
--   🤖 AI/ML Engineer passionate about solving real-world problems
--   💻 Building AI applications with Computer Vision, LLMs, Streamlit
-    and Agentic AI
+- 🥉 Secured **3rd Rank in Electronics & Communication Engineering  at university level**
+- 🤖 AI/ML enthusiast passionate about solving real-world problems
+- 💻 Building AI applications with **Computer Vision, LLMs, Streamlit and Agentic AI**
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 About Me
 
--   🎓 B.Tech in Electronics & Communication Engineering
--   🔭 Working on **AI Attendance System (Face + Voice Recognition)**
--   🌱 Learning **LangGraph, Advanced RAG, MCP, AI Agents and MLOps**
--   🤝 Open to AI/ML, Data Science and Software Engineering
-    opportunities
--   📫 Email: **kumarumakant21452@gmail.com**
--   🔗 LinkedIn: https://www.linkedin.com/in/kumar-uma-kant/
+- 🎓 B.Tech in **Electronics & Communication Engineering**
+- 🔭 Working on **AI Attendance System using Face + Voice Recognition**
+- 🌱 Learning **LangGraph, Advanced RAG, MCP, AI Agents and MLOps**
+- 🤝 Open to **AI/ML, Data Science and Software Engineering opportunities**
+- 📫 Email: **kumarumakant21452@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/kumar-uma-kant/**
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 Core Interests
 
--   Machine Learning
--   Deep Learning
--   Computer Vision
--   Generative AI
--   Large Language Models (LLMs)
--   Retrieval-Augmented Generation (RAG)
--   Agentic AI
--   Data Science
--   MLOps
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Agentic AI
+- Data Science
+- MLOps
 
-------------------------------------------------------------------------
+---
 
 ## 💻 Tech Stack
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,html,css,js,react"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,html,css,js,react" />
 </p>
-```
-### AI & Data
 
--   Python
--   NumPy
--   Pandas
--   Scikit-learn
--   OpenCV
--   Dlib
--   PyTorch
--   TensorFlow
--   LangChain
--   LangGraph
--   Hugging Face Transformers
--   Streamlit
--   Supabase
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Attendance System
-
-Face Recognition + Voice Recognition + QR Attendance + Streamlit +
-Supabase
+AI-powered attendance system using **Face Recognition, Voice Recognition, QR Attendance, Streamlit and Supabase**.
 
 ### 👁️ Face Recognition Attendance
+Computer vision-based attendance system using **Dlib, Face Embeddings and Machine Learning**.
 
-Dlib, Face Embeddings, Computer Vision
+### 🎙️ Voice Attendance System
+Voice-based student identification system using **audio processing and speaker recognition**.
 
-### 🎙️ Voice Attendance
-
-Speaker Recognition & Audio Processing
-
-### 💳 CreditWise Loan Approval
-
-Machine Learning classification with feature engineering and model
-evaluation.
+### 💳 CreditWise Loan Approval System
+Machine learning project for predicting loan approval using **EDA, preprocessing, classification models and evaluation metrics**.
 
 ### 🛒 SmartCart Customer Segmentation
+Customer segmentation project using **K-Means Clustering, PCA and Data Visualization**.
 
-K-Means, PCA and data visualization.
 
-### 🌱 Smart Irrigation System
-
-IoT + Arduino + Sensors.
-
-### 💡 Automated Street Light Fault Detection
-
-Energy conservation project.
-
-------------------------------------------------------------------------
+---
 
 ## 📚 Currently Learning
 
--   LangGraph
--   AI Agents
--   RAG
--   Vector Databases
--   Model Deployment
--   MLOps
+- LangChain
+- LangGraph
+- Agentic AI
+- RAG Systems
+- Hugging Face Transformers
+- LLM Applications
+- Computer Vision
+- Model Deployment
+- MLOps Basics
 
-------------------------------------------------------------------------
+---
+
+## 🏆 Achievements
+
+- 🥉 Secured **3rd Rank in Electronics & Communication Engineering at university level**
+- 🎓 B.Tech in **Electronics & Communication Engineering**
+- 🤖 Developed multiple **AI/ML, Computer Vision and Generative AI projects**
+- 💻 Hands-on experience with **Machine Learning, Deep Learning, LLMs, LangChain and Streamlit**
+- 🚀 Passionate about building **AI solutions for real-world applications**
+
+---
 
 ## 📊 GitHub Stats
 
-``` text
-Replace YOUR_USERNAME in the URLs below with: kumar-uma-kant
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight" height="170" />
+</p>
 
--   GitHub Stats:
-    `https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-uma-kant&theme=tokyonight" />
+</p>
 
--   Top Languages:
-    `https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight`
+---
 
--   Streak:
-    `https://github-readme-streak-stats.herokuapp.com/?user=kumar-uma-kant&theme=tokyonight`
+## 📈 Contribution Graph
 
--   Activity Graph:
-    `https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night" />
+</p>
 
--   Trophies:
-    `https://github-profile-trophy.vercel.app/?username=kumar-uma-kant&theme=tokyonight`
-
-------------------------------------------------------------------------
+---
 
 ## 🌐 Connect With Me
 
--   📧 kumarumakant21452@gmail.com
--   💼 https://www.linkedin.com/in/kumar-uma-kant/
--   🐙 https://github.com/kumar-uma-kant
+<p align="center">
+  <a href="mailto:kumarumakant21452@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-------------------------------------------------------------------------
+  <a href="https://github.com/kumar-uma-kant">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-> **"Transforming ideas into intelligent AI-powered solutions."**
+  <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Transforming ideas into intelligent AI-powered solutions.”</b>
+</p>
+
+<p align="center">
+  ⭐ From <b>Umakant Kumar</b>
+</p>
