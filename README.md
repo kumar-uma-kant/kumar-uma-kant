@@ -2,12 +2,9 @@
   <img src="github img.png" 
        alt="Umakant Kumar AI/ML Banner" 
        width="100%" 
-       height="260" 
+       height="360" 
        style="object-fit: cover; object-position: top; border-radius: 12px;" />
 </p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/type=waving&color=0d1117&secondaryColor=0a0f1d&height=280&section=header&text=UMAKANT%20KUMAR&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=33&animation=fadeIn" width="100%" />
 
 <h1>🤖 AI / ML Engineer</h1>
 <p><b>Generative AI • Computer Vision • Agentic AI • Data Science</b></p>
