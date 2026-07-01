@@ -1,31 +1,15 @@
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/type=normal&color=0d1117&height=180&section=header&text=UMAKANT%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co/6R2pZ9j7/ChatGPT-Image-Jul-1-2026-10-39-58-AM.png" 
+       alt="Umakant Kumar AI/ML Banner" 
+       width="100%" 
+       height="260" 
+       style="object-fit: cover; object-position: top; border-radius: 10px;" />
+</p>
 
-  <h3>🤖 AI/ML ENGINEER</h3>
-  <p><b>Generative AI • Computer Vision • Agentic AI • Data Science</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
 
-  <table>
-    <tr>
-      <td bgcolor="#0e1629" align="center" style="border: 1px solid #1e293b; border-radius: 8px; padding: 10px;">
-        🏆 <b>Secured <font color="#eab308">3rd Rank</font> in Electronics & Communication Engineering at university level</b>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C2D91?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  </p>
-</div>
 ---
 
 ## 📌 Professional Overview
@@ -35,7 +19,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Highlights</h3>
       <ul>
-        <li>🥇 Secured <b>3rd Rank</b> in Electronics & Communication Engineering branch at university level</li>
+        <li>🥉 Secured <b>3rd Rank</b> in Electronics & Communication Engineering branch at university level</li>
         <li>🤖 AI/ML enthusiast passionate about solving real-world problems</li>
         <li>💻 Building AI applications with <b>Computer Vision, LLMs, Streamlit and Agentic AI</b></li>
         <li>🚀 Always learning, building, and improving</li>
