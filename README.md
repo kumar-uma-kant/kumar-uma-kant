@@ -1,44 +1,83 @@
-<!-- HEADER BANNER -->
+<h1 align="center">Hi 👋, I'm Umakant Kumar</h1>
+
+<!-- 
+FUTURISTIC AI/ML HEADER BANNER 
+Custom text over a dark, high-tech abstract visualization.
+-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20👋,%20I'm%20Umakant%20Kumar&fontSize=45&animation=fadeIn&theme=tokyonight" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=UMAKANT%20KUMAR&fontSize=50&fontColor=fff&animation=fadeIn&theme=tokyonight" width="100%" />
 </p>
 
-<!-- SUBTITLE LOGIC WITH TYPING EFFECT -->
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+/+ML+Engineer;Generative+AI+%E2%80%A2+Agentic+AI;Computer+Vision+Expert;Data+Scientist" alt="Typing Effect" />
-  </a>
+  <strong>Generative AI • Computer Vision • Agentic AI • Data Science</strong>
 </h3>
 
 <p align="center">
-  <b>Building intelligent AI-powered solutions for real-world problems.</b>
+  <i>Building intelligent AI-powered solutions for real-world problems.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
+
+---
+
+<!-- 
+AI-THEMED PROFILE IMAGE 
+Replaces the static photo with a dynamic, stylized visual representing AI/ML engineering.
+-->
+<p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80"
+    alt="Artificial Intelligence and Machine Learning"
+    width="420"
+    style="border-radius: 15px; border: 2px solid #3ECF8E; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+  />
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🥉 Secured **3rd Rank** in Electronics & Communication Engineering at university level
+- 🤖 AI/ML enthusiast passionate about solving real-world problems
+- 💻 Building AI applications with **Computer Vision, LLMs, Streamlit and Agentic AI**
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Education:** B.Tech in **Electronics & Communication Engineering** *(Secured 3rd Rank at University Level 🏆)*
-- 🔭 **Current Focus:** Building an **AI Attendance System using Face + Voice Recognition**
-- 🌱 **Learning Lab:** Masterclassing **LangGraph, Advanced RAG, MCP, AI Agents, and MLOps**
-- 🤝 **Collaboration:** Open to **AI/ML, Data Science, and Software Engineering** opportunities
+- 🎓 **B.Tech** in Electronics & Communication Engineering
+- 🔭 **Working on:** AI Attendance System using Face + Voice Recognition
+- 🌱 **Deep Diving:** LangGraph, Advanced RAG, MCP, AI Agents and MLOps
+- 🤝 **Open to:** AI/ML, Data Science and Software Engineering opportunities
+- 📧 **Email:** <a href="mailto:kumarumakant21452@gmail.com">kumarumakant21452@gmail.com</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">Connect with me</a>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🧠 Core Interests
 
-### 💻 Languages & Core Tools
+- Machine Learning / Deep Learning
+- Computer Vision (CV)
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI / AI Agents
+- Data Science
+- MLOps
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Languages & Frameworks
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,html,css,js,react" alt="Tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,html,css,js,react" />
 </p>
 
-### 🧠 AI / Data Science Specializations
+### AI/ML Specializations
+
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
   <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,53 +91,85 @@
 
 ---
 
-## 🤖 Featured Projects
+## 🚀 Featured Projects
 
-* **🤖 AI Attendance System:** End-to-end intelligent ecosystem utilizing **Face Recognition, Voice Validation, QR tracking, Streamlit, and Supabase**.
-* **👁️ Computer Vision Attendance:** Scalable facial recognition architecture built on **Dlib and Deep Face Embeddings**.
-* **🎙️ Voice Attendance System:** Custom audio-processing pipeline optimized for biometric **speaker identification**.
-* **💳 CreditWise Loan Predictor:** Machine learning engine mapping credit risks through rigorous **EDA, pipeline preprocessing, and fine-tuned classification**.
-* **🛒 SmartCart Segmentation:** Target-demographic analytics strategy implementing unsupervised **K-Means Clustering and PCA**.
+> **🦾 Multi-Modal AI Attendance System**  
+> AI-powered attendance using **Face Recognition, Voice Verification, and QR Codes**. Built with **Streamlit** and **Supabase**.
 
----
+> **👁️ Computer Vision Attendance**  
+> Legacy attendance system optimized using **Dlib, Face Embeddings,** and pure ML.
 
-## 📊 GitHub Analytics
+> **🎙️ Voice Identification System**  
+> Speaker recognition application for identifying students using **advanced audio processing**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight&margin_width=20" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
-</p>
+> **💳 CreditWise Loan Approval**  
+> Machine learning predictive pipeline for loan approval, featuring full **EDA, preprocessing, and classification models**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-uma-kant&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-### 📈 Contribution Flow
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- OPTIONAL: Contribution Snake Animation -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/platane/snk@master/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+> **🛒 SmartCart Customer Segmentation**  
+> Data visualization and segmentation project using **K-Means Clustering** and **PCA**.
 
 ---
 
-## 🌐 Connect & Collaborate
+## 📚 Currently Learning
+
+- LangChain / LangGraph (Advanced Workflows)
+- Agentic AI & RAG Systems
+- Hugging Face Transformers & LLM Applications
+- Computer Vision Models (Detection/Segmentation)
+- MLOps (Deployment & Monitoring)
+
+---
+
+## 🏆 Achievements
+
+- 🥉 Secured **3rd Rank** in Electronics & Communication Engineering at university level
+- 🎓 **B.Tech** in Electronics & Communication Engineering
+- 🤖 Developed multiple high-impact **AI/ML, Computer Vision, and Generative AI projects**
+- 💻 Hands-on experience with **Machine Learning, Deep Learning, LLMs, LangChain, and Streamlit**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-uma-kant&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-uma-kant&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-uma-kant&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-uma-kant&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:kumarumakant21452@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/kumar-uma-kant">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kumar-uma-kant/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>“Transforming ideas into intelligent, production-ready AI solutions.”</i>
+  <sub><b>“Transforming ideas into intelligent AI-powered solutions.”</b></sub>
+</p>
+
+<p align="center">
+  <sub>⭐ From <b>Umakant Kumar</b></sub>
 </p>
