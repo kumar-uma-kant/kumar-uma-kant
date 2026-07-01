@@ -12,12 +12,7 @@ Building intelligent AI-powered solutions for real-world problems.
   <img src="https://komarev.com/ghpvc/?username=kumar-uma-kant&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
 
-<p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80"
-    alt="Artificial Intelligence and Machine Learning"
-    width="420"
-  />
+
 </p>
 ---
 
