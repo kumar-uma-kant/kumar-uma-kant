@@ -13,9 +13,12 @@ Building intelligent AI-powered solutions for real-world problems.
 </p>
 
 <p align="center">
-  <img width="420" alt="Real World Artificial Intelligence" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80" />
+  <img
+    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=900&q=80"
+    alt="Artificial Intelligence and Machine Learning"
+    width="420"
+  />
 </p>
-
 ---
 
 ## 🏆 Highlights
