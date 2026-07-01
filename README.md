@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="github img.png" 
+       alt="Umakant Kumar AI/ML Banner" 
+       width="100%" 
+       height="260" 
+       style="object-fit: cover; object-position: top; border-radius: 12px;" />
+</p>
+
 <div align="center">
 <h1> Umakant kumar </h1>
 <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&secondaryColor=0a0f1d&height=280&section=header&text=UMAKANT%20KUMAR&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=33&animation=fadeIn" width="100%" />
